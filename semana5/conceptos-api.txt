@@ -1,0 +1,2 @@
+La ruta recibe un mennsaje y responder un mensaje y contestar de nuevo el mensaje en un archivo json
+POST en una aplicación comunitaria nos sirve para recibir datos de los miembros de la comunidad, por ejemplo: PQRS y felicitacioness
